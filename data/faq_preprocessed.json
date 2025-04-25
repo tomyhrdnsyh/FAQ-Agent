@@ -1,0 +1,523 @@
+[
+  {
+    "question":"reset dan buka blokir PIN",
+    "answer":"Hai Sobat, bagaimana jika kamu lupa PIN ? \n1. Log out dari aplikasi LinkAja kamu\n2. Masukkan nomor HP dan kode OTP yang dikirim melalui SMS\n3. Pada halaman masukkan PIN, tekan tombol lupa PIN\n4. kode OTP akan dikirimkan ke email kamu, pastikan email sudah di verifikasi sebelumnya, buka email dan ikuti petunjuk\n5. Buka aplikasi LinkAja kembali, ikuti instruksi login, dan masukkan 6 digit PIN Baru\n\nSelain OTP melalui Email, PIN bisa di reset dengan cara:\n1. Log out dari aplikasi LinkAja kamu\n2. Masukkan nomor HP dan kode OTP yang dikirim melalui SMS\n3. Pada halaman masukkan PIN, tekan tombol lupa PIN\n4. Pilih pertanyaan keamanan, pilih jenis pertanyaan yg telah disetting sebelumnya kemudian isi jawabannya, submit\n5. Ikuti instruksi login, dan masukkan 6 digit PIN Baru\nBagaimana jika akun terblokir (Salah PIN 3x) ?\nBuka blokir bisa melalui Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Langkah-langkah untuk mereset dan membuka blokir PIN pada aplikasi LinkAja, termasuk menggunakan OTP melalui SMS atau email, serta prosedur untuk mengatasi akun yang terblokir setelah salah memasukkan PIN."
+  },
+  {
+    "question":"apa yang dilakukan jika lupa pin",
+    "answer":"Untuk pelanggan yang lupa PIN lama, bisa membuat PIN baru melalui aplikasi LinkAja. Berikut caranya:\n\n1. Log out dari aplikasi LinkAja kamu\n2. Masukkan nomor HP dan kode OTP yang dikirim melalui SMS\n3. Pada halaman masukkan PIN, tekan tombol lupa PIN\n4. PIN sementara akan dikirimkan ke email kamu, pastikan email sudah di verifikasi sebelumnya\n5. Buka email dan ikuti petunjuk\n6. Buka aplikasi LinkAja kembali, ikuti instruksi login, dan masukkan 6 digit PIN Baru",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang dapat diikuti pelanggan LinkAja untuk membuat PIN baru jika mereka lupa PIN lama melalui aplikasi."
+  },
+  {
+    "question":"cara untuk ganti pin",
+    "answer":"Pelanggan bisa ganti PIN jika masih ingat PIN lamanya. Pelanggan dapat mengganti PIN melalui aplikasi LinkAja. Berikut caranya:\n\n1. Klik menu Akun di bagian bawah halaman awal aplikasi LinkAja\n2. Klik menu Ubah PIN\n3. Masukkan PIN lama yang ingin diganti\n4. Masukkan PIN yang baru",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang dapat diikuti pelanggan LinkAja untuk mengganti PIN mereka jika masih ingat PIN lama melalui aplikasi."
+  },
+  {
+    "question":"fitur apa saja yang ada pada layanan linkaja",
+    "answer":"LinkAja menawarkan beberapa layanan utama, yaitu:\n\n1. Bayar Merchant dengan Stiker NFC, USSD, QR dan TOKEN\n2. Beli Pulsa dan Data Internet\n3. Bayar-Beli di HP\n4. Belanja Online\n5. Kirim Uang\n6. Isi Saldo langsung melalui bank Himbara (BNI, BRI, Mandiri dan BTN) dan bank lainnya melalui layanan ATM bersama.",
+    "description":"Fitur-fitur utama yang ditawarkan oleh layanan LinkAja, termasuk pembayaran merchant, pembelian pulsa, belanja online, pengiriman uang, dan pengisian saldo melalui berbagai bank."
+  },
+  {
+    "question":"cara upgrade linkaja dari layanan basic ke full service di aplikasi linkaja",
+    "answer":"Untuk mendapatkan layanan full service LinkAja, semua pelanggan Telkomsel dan non-Telkomsel  dapat melakukan eKYC melalui aplikasi LinkAja dengan menyiapkan kartu identitas asli (e-KTP), mengisi data diri kamu dan melakukan video call di Aplikasi LinkAja.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Prosedur yang harus diikuti oleh pengguna LinkAja untuk melakukan upgrade dari layanan basic ke full service melalui eKYC di aplikasi, termasuk persyaratan dokumen dan langkah-langkah yang diperlukan."
+  },
+  {
+    "question":"sudah proses ekyc tetapi akun belum full service",
+    "answer":"Hai Sobat, sudah upgrade tapi akun Kamu masih basic?\n1. Buka App LinkAja dan masuk ke menu akun cek type akun nya\n2. Cek SMS notif apakah sudah ada informasi verifikasi pengajuan upgrade LinkAja\n3. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang dapat diambil pengguna LinkAja untuk mengatasi masalah akun yang belum berstatus full service meskipun sudah melalui proses eKYC dan upgrade."
+  },
+  {
+    "question":"jumlah saldo tidak sesuai",
+    "answer":"Hai Sobat, saldo Kamu tiba-tiba hilang?\n\nTenang saldo kamu aman, hal tersebut bisa terjadi karena ketika Kamu Login memilih  buat akun baru padahal Kamu sudah punya akun, Hubungi Contact Customer LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Penyebab saldo tidak sesuai pada akun LinkAja dan langkah yang dapat diambil untuk mengatasi masalah tersebut, termasuk menghubungi layanan pelanggan."
+  },
+  {
+    "question":"jumlah saldo ketika akun downgrade (akun archive)",
+    "answer":"Hai Sobat, saldo Kamu tiba-tiba hilang?\n\nTenang saldo kamu aman, hal tersebut bisa terjadi karena ketika Kamu Login memilih  buat akun baru padahal Kamu sudah punya akun, Hubungi Contact Customer LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Penjelasan mengenai keamanan saldo pengguna LinkAja saat melakukan downgrade akun dan langkah yang harus diambil jika saldo tidak terlihat."
+  },
+  {
+    "question":"cara login / masuk ke akun",
+    "answer":"Setelah kamu melakukan download dan install, kamu harus memasukkan nomor HP kamu dan klik tombol 'Masuk' atau 'Start' setelah itu isi form yang tersedia, kamu akan diminta untuk membuat 6 digit PIN dan setelah itu kamu siap untuk menggunakan Aplikasi LinkAja.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Proses langkah-langkah untuk login ke akun LinkAja, termasuk memasukkan nomor HP dan membuat 6 digit PIN setelah mengunduh dan menginstal aplikasi."
+  },
+  {
+    "question":"pin aplikasi linkaja sama dengan pin kayanan linkaja lainnya",
+    "answer":"PIN di Aplikasi LinkAja sama dengan PIN layanan LinkAja milikmu. Jaga kerahasian 6 digit PIN kamu dan jangan berikan kepada siapapun.Pihak LinkAja dan merchant & mitra LinkAja tidak akan pernah meminta kode PIN, OTP, dan token pelanggan.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Informasi mengenai kesamaan PIN di aplikasi LinkAja dengan PIN layanan lainnya serta pentingnya menjaga kerahasiaan PIN dari pihak ketiga."
+  },
+  {
+    "question":"1 (satu) akun email dapat digunakan untuk lebih dari 1 akun linkaja yang berbeda",
+    "answer":"Bisa, 1 email kamu bisa digunakan untuk lebih dari 1 akun LinkAja (bisa 2 akun) yang berbeda. Jangan lupa untuk melakukan verifikasi email kamu!",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Satu akun email dapat digunakan untuk mendaftar lebih dari satu akun LinkAja, dengan catatan perlu melakukan verifikasi email."
+  },
+  {
+    "question":"jenis dan perbedaan layanan linkaja basic service dan full service",
+    "answer":"Layanan LinkAja terbagi menjadi dua yaitu LinkAja Basic Service dan LinkAja Full Service. Perbedaannya adala pada cara pendaftaran dan bentuk layanan.\n1. LinkAja Basic Service adalah jenis layanan LinkAja yang tidak memerlukan pendaftaran data identitas pelanggan di Finarya. Pelanggan LinkAja Basic Service dapat melakukan transaksi sebagai berikut: a. Isi Saldo (Cash In/Top Up), b. Pembayaran Transaksi, c. Pembayaran Tagihan\n2. LinkAja Full Service adalah jenis layanan LinkAja yang data identitas pelanggan terdaftar dan tercatat di Finarya serta telah diverifikasi. Pelanggan LinkAja Full Service dapat melakukan transaksi sebagai berikut: a. Isi Saldo (Cash In/Top Up), b. Pembayaran Transaksi, c. Pembayaran Tagihan, d. Transfer Dana, e. Tarik Tunai, f. Penyaluran Dana Pihak Ketiga",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Perbedaan antara layanan LinkAja Basic Service dan Full Service, termasuk cara pendaftaran dan jenis transaksi yang dapat dilakukan oleh masing-masing layanan."
+  },
+  {
+    "question":"perbedaan linkaja basic service dan full service",
+    "answer":"Layanan LinkAja terbagi menjadi dua yaitu: LinkAja Basic Service dan LinkAja Full Service.  Untuk mendapatkan layanan full service LinkAja, semua pelanggan dapat melakukan eKYC melalui aplikasi LinkAja atau verifikasi data di GraPARI terdekat dengan membawa kartu identitas asli (KTP / Passport). LinkAja Full Service memiliki beberapa keunggulan dibandingkan Basic Service.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Perbedaan antara LinkAja Basic Service dan Full Service, termasuk proses eKYC untuk mendapatkan layanan Full Service yang menawarkan keunggulan lebih."
+  },
+  {
+    "question":"cara cek status layanan linkaja",
+    "answer":"Cek status layanan LinkAja kamu di aplikasi, dengan cara:\n\n1. Masuk ke aplikasi LinkAja\n2. Pada menu utama aplikasi LinkAja, pilih menu profil di pojok kanan bawah\n3. Kamu bisa menemukan status layanan pada menu Tipe Akun.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Cara untuk memeriksa status layanan akun LinkAja melalui aplikasi dengan mengikuti langkah-langkah di menu profil."
+  },
+  {
+    "question":"cara mengubah data pelanggan linkaja",
+    "answer":"Kamu dapat mengunjungi GraPARI terdekat untuk mengubah data pelanggan.",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Prosedur yang harus diikuti oleh pengguna LinkAja untuk mengubah data pelanggan dengan mengunjungi GraPARI terdekat."
+  },
+  {
+    "question":"punya rekening bank untuk bisa menjadi pelanggan linkaja",
+    "answer":"Kamu tidak perlu memiliki rekening di bank untuk menjadi pelanggan LinkAja. Semua Operator Seluler di Indonesia bisa menjadi pelanggan LinkAja dengan melakukan pendaftaran di aplikasi LinkAja atau dengan menghubungi *800*88*6-digit-PIN# (untuk pelanggan Telkomsel).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Pengguna di Indonesia tidak perlu memiliki rekening bank untuk mendaftar sebagai pelanggan LinkAja, cukup dengan melakukan pendaftaran melalui aplikasi atau menghubungi nomor yang disediakan."
+  },
+  {
+    "question":"harus punya nomor telkomsel untuk bisa menjadi pelanggan linkaja",
+    "answer":"Semua Operator Seluler di Indonesia bisa menjadi pelanggan LinkAja dengan melakukan pendaftaran di aplikasi LinkAja atau dengan menghubungi *800*88*6-digit-PIN# (untuk pelanggan Telkomsel).",
+    "topik":"akun",
+    "level":"linkaja",
+    "description":"Semua pengguna operator seluler di Indonesia, termasuk Telkomsel, dapat mendaftar sebagai pelanggan LinkAja melalui aplikasi atau dengan menghubungi nomor tertentu."
+  },
+  {
+    "question":"biaya yang harus dikeluarkan",
+    "answer":"Kamu tidak akan dikenakan biaya saat download aplikasi LinkAja. Namun selayaknya aplikasi online, kamu akan dikenakan biaya data untuk penggunaan aplikasi LinkAja,  dan kamu baru akan dikenakan biaya pada saat transaksi LinkAja sesuai dengan tarif biaya transaksi LinkAja.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Biaya yang dikenakan kepada pengguna aplikasi LinkAja, termasuk biaya data untuk penggunaan dan tarif transaksi saat melakukan transaksi."
+  },
+  {
+    "question":"cara upgrade full service",
+    "answer":"Hai Sobat, akun Kamu masih Basic ? Upgrade Yuuk\nUntuk mendapatkan layanan full service LinkAja, semua pelanggan Telkomsel dan non-Telkomsel\u00a0 dapat melakukan eKYC melalui aplikasi LinkAja dengan menyiapkan kartu identitas asli (e-KTP) dan mengisi data diri kamu di Aplikasi LinkAja.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang harus diikuti oleh pengguna untuk meng-upgrade akun LinkAja dari Basic ke layanan full service melalui proses eKYC dengan menggunakan kartu identitas asli."
+  },
+  {
+    "question":"tidak bisa download aplikasi",
+    "answer":"Hai Sobat, berkendala tidak bisa login LinkAja?\n\n1. Pastikan Aplikasi LinkAja hanya bisa digunakan oleh perangkat Android dengan versi minimal 5.0 (Lollipop) dan iOS versi 9.0.\n\n2. Aplikasi LinkAja tidak bisa digunakan oleh perangkat rooted / unlocked device\n3. Pastikan memori dan storage HP kamu masih mencukupi",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Informasi mengenai syarat dan penyebab yang membuat pengguna tidak dapat mengunduh aplikasi LinkAja, termasuk versi sistem operasi dan kondisi perangkat."
+  },
+  {
+    "question":"aplikasi linkaja",
+    "answer":"Aplikasi LinkAja adalah Aplikasi yang bergerak di bidang finansial teknologi yang dapat memberikan kemudahan, kenyamanan dan keamanan bertransaksi untuk memenuhi kebutuhanmu!",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Deskripsi mengenai aplikasi LinkAja yang menyediakan layanan finansial teknologi untuk memudahkan, memberikan kenyamanan, dan keamanan dalam bertransaksi."
+  },
+  {
+    "question":"fitur di aplikasi linkaja",
+    "answer":"Saat ini fitur yang terdapat di dalam layanan LinkAja adalah layanan yang bisa memudahkan untuk beli pulsa & data, bayar merchant dengan Stiker NFC LinkAja/snap kode QR dan token, bayar tagihan, beli voucher game, kirim donasi, kirim uang ke sesama pengguna LinkAja dan masih banyak lagi.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Fitur-fitur yang tersedia di aplikasi LinkAja termasuk pembelian pulsa dan data, pembayaran merchant melalui Stiker NFC atau kode QR, pembayaran tagihan, pembelian voucher game, pengiriman donasi, dan transfer uang antar pengguna LinkAja."
+  },
+  {
+    "question":"keuntungan setelah registrasi",
+    "answer":"Setelah melakukan registrasi, kamu langsung dapat menikmati layanan dan promo - promo menarik LinkAja. Segera isi saldo LinkAja kamu!",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Keuntungan yang didapat pengguna LinkAja setelah registrasi, termasuk akses ke layanan dan promo menarik serta pengisian saldo."
+  },
+  {
+    "question":"yang perlu diperhatikan saat registrasi",
+    "answer":"Kamu harus mengingat data yang diinput dan harus sesuai dengan data asli sehingga pada saat verifikasi data, data yang dimasukkan sudah benar dan selalu ingat PIN dan email yang kamu registrasikan di Aplikasi LinkAja.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Poin-poin penting yang harus diperhatikan pengguna saat melakukan registrasi di aplikasi LinkAja, termasuk kesesuaian data yang dimasukkan dengan data asli serta pentingnya mengingat PIN dan email yang digunakan."
+  },
+  {
+    "question":"cara mendapatkan aplikasi linkaja",
+    "answer":"Aplikasi LinkAja bisa diunduh di Apple App Store & Google Play Store. Aplikasi LinkAja hanya bisa digunakan oleh perangkat Android dengan versi minimal 5.0 (Lollipop) dan iOS versi 9.0. Aplikasi LinkAja tidak bisa digunakan oleh perangkat rooted / unlocked device.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Cara mengunduh aplikasi LinkAja dari Apple App Store dan Google Play Store, serta syarat perangkat yang mendukung penggunaannya."
+  },
+  {
+    "question":"aplikasi linkaja dan tentang linkaja",
+    "answer":"Perpindahan ke LinkAja itu dilakukan untuk menyinergikan layanan keuangan elektronik dari beberapa Badan Usaha Milik Negara (BUMN).\n\nLinkAja sendiri adalah layanan atau produk uang elektronik sinergi layanan keuangan elektronik milik PT Telekomunikasi Selular ('Telkomsel') dengan merek TCASH, PT Bank Mandiri (Persero) Tbk., dengan merek E-Cash, PT. Bank Negara Indonesia (Persero), Tbk. dengan merek UnikQu, dan PT Bank Rakyat Indonesia (Persero) Tbk., dengan merek T-Bank menjadi satu produk uang elektronik yang diterbitkan dan dioperasikan oleh PT. Fintek Karya Nusantara (Finarya).",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"LinkAja adalah layanan uang elektronik yang merupakan sinergi dari beberapa BUMN, menggabungkan produk keuangan elektronik dari Telkomsel, Bank Mandiri, Bank Negara Indonesia, dan Bank Rakyat Indonesia."
+  },
+  {
+    "question":"tcash berubah menjadi linkaja",
+    "answer":"Sinergi TCASH dengan layanan uang elektronik yang diterbitkan oleh Badan Usaha Milik Negara (BUMN) akan menghadirkan layanan yang lebih lengkap dan lebih baik. LinkAja membuka peluang transaksi keuangan digital yang lebih luas dengan bersatunya sumber daya yang dimiliki BUMN.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Transformasi TCASH menjadi LinkAja yang menawarkan layanan keuangan digital yang lebih lengkap dan luas melalui sinergi dengan Badan Usaha Milik Negara (BUMN)."
+  },
+  {
+    "question":"mekanisme perubahan tcash ke linkaja",
+    "answer":"Pelanggan TCASH dapat menjadi Pelanggan LinkAja dengan cara sebagai berikut:\n\na.Melakukan pembaharuan aplikasi di Google Play Store (Android) atau App Store (iOS); \nb. Membaca dan menyetujui syarat dan ketentuan terkait perpindahan layanan dari TCASH ke LinkAja (link SnK) dengan cara memberikan persetujuan (customer consent) dan masuk atau log in ke dalam aplikasi LinkAja menggunakan nomor handphone;\nc. Menggunakan layanan atau fasilitas yang terdapat pada LinkAja dengan melakukan transaksi pertama kali pada tanggal perpindahan layanan dengan menggunakan TAP (NFC Stiker), USSD, layanan pembayaran online melalui aplikasi merchant, serta layanan pembayaran langsung di aplikasi merchant transportasi;\nd.Selama masa perpindahan layanan, demi kenyamanan Pelanggan dan komitmen kami terhadap pemenuhan peraturan perundang-undangan yang berlaku, kami mungkin akan memintakan persetujuan Pelanggan kembali apabila Pelanggan melakukan transaksi melalui saluran transaksi berbeda yang tersedia pada LinkAja baik melalui aplikasi, TAP (NFC Stiker), USSD, layanan pembayaran online melalui aplikasi merchant, atau layanan pembayaran langsung di aplikasi merchant transportasi. Data atas persetujuan Pelanggan melalui transaksi menggunakan LinkAja tersebut akan kami simpan dan akan kami perlakukan sesuai peraturan perundangan yang berlaku.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Proses yang harus diikuti oleh pelanggan TCASH untuk beralih menjadi pelanggan LinkAja, termasuk pembaruan aplikasi, persetujuan syarat dan ketentuan, serta langkah-langkah transaksi pertama."
+  },
+  {
+    "question":"perbedaan antara dari tcash dan linkaja",
+    "answer":"Semua layanan dan fitur yang tersedia pada layanan TCASH, akan dapat diakses dan dinikmati pada layanan LinkAja. Terlebih lagi, kedepannya akan terdapat beberapa fitur baru pada layanan LinkAja yang dikembangkan dari waktu ke waktu.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Perbandingan antara layanan TCASH dan LinkAja, yang menunjukkan bahwa semua fitur TCASH akan tersedia di LinkAja, dengan tambahan fitur baru yang akan dikembangkan di masa depan."
+  },
+  {
+    "question":"benefit lebih bagi pelanggan yang bisa didapat dari linkaja",
+    "answer":"LinkAja akan menyediakan banyak promosi dan rewards menarik bagi Pelanggan. Promosi dan rewards ini akan dapat dinikmati oleh Pelanggan baru LinkAja dan juga Pelanggan TCASH yang bersedia memindahkan akun TCASH-nya ke akun LinkAja.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Keuntungan yang dapat diperoleh pelanggan LinkAja berupa promosi dan rewards menarik, yang ditawarkan kepada pelanggan baru dan pelanggan TCASH yang beralih ke LinkAja."
+  },
+  {
+    "question":"apakah pelanggan tcash perlu melakukan registrasi ulang untuk dapat menggunakan layanan linkaja",
+    "answer":"Tidak perlu. Pelanggan hanya perlu melakukan update aplikasi TCASH menjadi aplikasi LinkAja di Google Play Store (Android) dan App Store (iOS) atau memberikan persetujuan melalui channel USSD TCASH (*800#). Akun TCASH Pelanggan akan secara otomatis berpindah menjadi akun LinkAja bersamaan dengan update aplikasi TCASH menjadi LinkAja yang tersedia atau pemberian persetujuan oleh Pelanggan melalui channel USSD TCASH (*800#). Apabila nomor anda terdaftar sebagai pembayaran langsung di aplikasi mitra atau Transaksi TAP menggunakan NFC Sticker, maka Transaksi pertama Anda akan menjadi persetujuan pengguna dan secara otomatis Anda akan berpindah dari TCASH ke LinkAja.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Pelanggan TCASH tidak perlu registrasi ulang untuk menggunakan layanan LinkAja, cukup dengan memperbarui aplikasi atau memberikan persetujuan melalui USSD, akun TCASH akan otomatis berpindah ke LinkAja."
+  },
+  {
+    "question":"apa yang terjadi dengan saldo di tcash pelanggan setelah update ke linkaja",
+    "answer":"Saldo Pelanggan TCASH yang telah melakukan update ke LinkAja  akan dipindahkan secara otomatis menjadi saldo di akun LinkAja dengan nilai yang sama.",
+    "topik":"aplikasi",
+    "level":"linkaja",
+    "description":"Saldo pelanggan TCASH akan dipindahkan secara otomatis ke akun LinkAja dengan nilai yang sama setelah melakukan update."
+  },
+  {
+    "question":"tidak mendapat cashback",
+    "answer":"Sudah bertransaksi tapi tidak mendapatkan cashback ?\n1. Pastikan promo masih berlaku, info bisa di cek di https://www.linkaja.id/promo \n2. Pastikan sudah memenuhi syarat dan ketentuan Promo yg berlaku\n3. Cek saldo bonus di menu utama app LinkAja\n4. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang dapat diambil pengguna LinkAja jika tidak menerima cashback setelah bertransaksi, termasuk memeriksa promo, syarat dan ketentuan, serta menghubungi Customer Service."
+  },
+  {
+    "question":"ada program promo apa saja di linkaja",
+    "answer":"Kamu bisa cek promo LinkAja dengan berbagai merchant yang sedang bekerja sama dengan LinkAja di https://www.linkaja.id/promo",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Informasi mengenai program promo yang tersedia di LinkAja melalui kerjasama dengan berbagai merchant."
+  },
+  {
+    "question":"definisi saldo bonus",
+    "answer":"Saldo Bonus adalah saldo atau cashback yang kamu dapatkan dari transaksi promo yang dilakukan lewat aplikasi LinkAja.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Definisi saldo bonus sebagai saldo atau cashback yang diperoleh dari transaksi promo melalui aplikasi LinkAja."
+  },
+  {
+    "question":"kegunaan saldo bonus",
+    "answer":"Saldo Bonus bisa digunakan untuk semua transaksi sama seperti Saldo Utama. Bedanya, Saldo Bonus tidak dapat ditransfer dan ditarik-tunai. Saldo Bonus juga bisa digunakan untuk pembayaran online dan offline di semua merchant yang bekerja sama dengan LinkAja.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Kegunaan saldo bonus pada LinkAja yang dapat digunakan untuk transaksi di merchant, namun tidak dapat ditransfer atau ditarik tunai."
+  },
+  {
+    "question":"saldo bonus saya hilang",
+    "answer":"Saldo bonus yang kamu miliki nggak hilang, namun langsung terpakai (tanpa memberikan pilihan/persetujuan dari pelanggan) untuk transaksi selanjutnya yang kamu lakukan.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Penjelasan mengenai penggunaan saldo bonus yang secara otomatis terpakai untuk transaksi tanpa persetujuan pelanggan, meskipun terlihat hilang."
+  },
+  {
+    "question":"bisa nggak sih saldo bonus dikumpulin sampai banyak",
+    "answer":"Untuk saat ini, Saldo bonus yang kamu dapat dari LinkAja akan lebih dulu digunakan pada transaksi selanjutnya. Jadi, Saldo Bonus tidak bisa dikumpulkan.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Saldo bonus dari LinkAja tidak dapat dikumpulkan dan akan digunakan terlebih dahulu untuk transaksi selanjutnya."
+  },
+  {
+    "question":"jika tidak/nggak mau menggunakan saldo bonus",
+    "answer":"Metode pembayaran dengan LinkAja secara otomatis akan memotong Saldo Bonus kamu. Untuk saat ini, belum ada pilihan antara pemakaian saldo utama atau saldo bonus, atau untuk tidak menggunakannya.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Pengguna LinkAja tidak memiliki opsi untuk memilih antara menggunakan saldo utama atau saldo bonus saat melakukan pembayaran, karena saldo bonus akan dipotong secara otomatis."
+  },
+  {
+    "question":"bertransaksi hanya dengan saldo bonus tanpa saldo utama",
+    "answer":"Untuk sejumlah transaksi yang membutuhkan biaya admin, kamu harus memiliki saldo utama minimal sebesar biaya admin tersebut.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Ketentuan mengenai penggunaan saldo bonus untuk bertransaksi, yang menyatakan bahwa saldo utama tetap diperlukan untuk menutupi biaya admin."
+  },
+  {
+    "question":"dimana cek saldo bonus dan penggunaannya?",
+    "answer":"Kamu bisa cek Saldo Bonus dan penggunaannya dengan mengeklik tombol riwayat di aplikasi LinkAja kamu.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Cara untuk mengecek saldo bonus dan penggunaannya di aplikasi LinkAja melalui tombol riwayat."
+  },
+  {
+    "question":"saldo bonus bisa hangus",
+    "answer":"Saldo Bonus yang kamu dapatkan memiliki masa berlaku yang berbeda-beda. Kamu bisa cek dengan meng-klik tombol Bonus Balance/Saldo Bonus pada laman utama aplikasi LinkAja kamu.",
+    "topik":"bonus cashback",
+    "level":"linkaja",
+    "description":"Informasi mengenai masa berlaku saldo bonus di aplikasi LinkAja dan cara untuk memeriksanya."
+  },
+  {
+    "question":"batas layanan transaksi saldo dan transfer layanan linkaja basic service",
+    "answer":"a. Saldo Maksimal: Rp 2.000.000,-\nb. NIlai Maksimal Transaksi untuk dana yang bersifat Masuk: Rp 20.000.000 per bulan\nc. Nilai minimal saldo mengendap: Tidak ada minimum saldo",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Batasan layanan transaksi saldo dan transfer untuk layanan LinkAja Basic Service, termasuk saldo maksimal, nilai maksimal transaksi bulanan, dan ketentuan saldo mengendap."
+  },
+  {
+    "question":"batas layanan transaksi saldo dan transfer layanan linkaja full service",
+    "answer":"a. Saldo maksimal: Rp 10.000.000,-\nb. Nilai maksimal transaksi untuk dana yang bersifat Masuk: Rp 20.000.000 per bulan\nc. Nilai maksimal transfer: Rp 10.000.000 atau selama saldo mencukupi\nd. Nilai minimal transfer: Rp 100,- ke sesama linkaja dan Rp 10.000,- melalui online antar bank\ne. Nilai minimal saldo mengendap: Tidak ada minimum saldo",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Informasi mengenai batasan layanan transaksi saldo dan transfer pada layanan LinkAja, termasuk maksimal dan minimal nilai transaksi serta saldo."
+  },
+  {
+    "question":"biaya layanan transfer LinkAja",
+    "answer":"a. Penggantian Media (Stiker NFC): Rp 5000,00\nb. Setor Tunai (Cash In): \n\t- Rp 0,00/transaksi (Gratis di Grapari Telkomsel)\n\t- Rp 1.500,00/transaksi (melalui mitra layanan keuangan digital)\nc. Tarik Tunai (Cash Out):\n\t- Rp 0,00/transaksi (Gratis di Grapari Telkomsel)\n\t- Rp 5.000,00/transaksi (melalui mitra layanan keuangan digital)\nTransfer Dana:\n\t- Sesama akun Uang Elektronik LinkAja: Rp 0,00 / transaksi\n\tTransfer Online antar Bank: Rp 6.500,00/ transaksi\n\tTransfer Online dari Mandiri, BRI, BNI, dan BTN: Rp 0,00 / transaksi\n\nBiaya dapat berubah sewaktu-waktu berdasarkan dengan kesepakatan antara Finarya  dengan pihak lain yang bekerja sama dengan Finarya.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Rincian biaya layanan transfer dan transaksi di LinkAja, termasuk biaya penggantian media, setor tunai, tarik tunai, dan transfer antar akun serta antar bank."
+  },
+  {
+    "question":"perubahan cara transaksi menggunakan layanan linkaja",
+    "answer":"Cara transaksi akan tetap sama. Semua fitur transaksi yang tersedia pada layanan TCASH, diantaranya pembayaran menggunakan TCASH TAP, QR code (SNAP QR) maupun USSD TCASH *800# untuk melakukan pembayaran; pembelian online melalui menu dalam layanan TCASH; transfer saldo antar akun dan ke bank lain melalui jaringan ATM bersama, akan tetap tersedia pada layanan LinkAja.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Perubahan cara transaksi menggunakan layanan LinkAja tidak mengubah fitur yang ada, seperti pembayaran dengan TCASH TAP, QR code, USSD TCASH, pembelian online, dan transfer saldo antar akun serta ke bank lain."
+  },
+  {
+    "question":"transaksi berhasil produk tidak didapatkan",
+    "answer":"Sudah melakukan Trx tapi tidak dapat produk nya ?\n\n1. Cek menu riwayat transaksi pada App LinkAja\n2. Cek menu Inbox pada App LinkAja\n3. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang dapat diambil pengguna LinkAja jika transaksi berhasil tetapi produk tidak diterima, termasuk memeriksa riwayat transaksi dan menghubungi layanan pelanggan."
+  },
+  {
+    "question":"transaksi gagal saldo berkurang",
+    "answer":"Transaksi gagal tapi tidak dapat produk nya ?\n\n1. Cek menu riwayat transaksi pada App LinkAja\n2. Cek menu Inbox pada App LinkAja\n3. Cek saldo Kamu apakah udah berkurang ? jika sudah\n4. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang harus diambil pengguna LinkAja ketika mengalami transaksi gagal tetapi saldo tetap berkurang, termasuk memeriksa riwayat transaksi dan menghubungi layanan pelanggan."
+  },
+  {
+    "question":"sudah top up saldo linkaja tidak bertambah",
+    "answer":"Sudah melakukan Top Up tapi saldo tidak bertambah\n\n1. Cek menu Inbox pada App LinkAja\n2. Cek saldo pada menu utama LinkAja\n3. Jika masih belum masuk, persiapkan bukti transaksi top up (struk/mutasi rekening), kemudian\n4. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang harus dilakukan pengguna LinkAja jika saldo tidak bertambah setelah melakukan top up, termasuk memeriksa menu Inbox, saldo, dan menghubungi Customer Service dengan bukti transaksi."
+  },
+  {
+    "question":"kirim uang atau transfer, saldo rekening tidak bertambah",
+    "answer":"Sudah melakukan Top Up tapi saldo tidak bertambah\n\n1. Cek riwayat pada App LinkAja, apakah berhasil ?\n2. Cek rekening/akun tujuan transaksi kirim uang\n3. Jika masih belum masuk, persiapkan bukti mutasi rekening tujuan, kemudian\n4. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Panduan untuk pengguna LinkAja yang mengalami masalah saldo tidak bertambah setelah melakukan transfer atau top up, termasuk langkah-langkah pengecekan dan cara menghubungi Customer Service."
+  },
+  {
+    "question":"tidak bisa transaksi pembelian",
+    "answer":"Tidak bisa melakukan transaksi pembelian\n\n1. Pastikan saldo Kamu mencukupi (incl. biaya admin jika ada)\n2. Pastikan produk yg dibeli sesuai (pulsa yg sesuai untuk operator nya), jika masih berkendala\n3. Hubungi Customer Service  LinkAja via Widget Chat  atau Call Center 1150911 dan berlaku untuk semua operator telekomunikasi di Indonesia (dikenakan tarif local sesuai dengan operator masing-masing).",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Langkah-langkah yang harus diambil pengguna LinkAja ketika mengalami masalah dalam melakukan transaksi pembelian, termasuk memastikan saldo mencukupi dan produk yang dibeli sesuai."
+  },
+  {
+    "question":"cara top up kartu uang elektronik",
+    "answer":"Hai Sobat, Mau tahu cara Top Kartu uang elektronik di LinkAja ?\n\n1. Pilih menu Kartu Uang elektronik\n2. Masukkan nomor kartu\n3. Pilih nominal kemudian Konfirmasi\n4. Input PIN\n5. Setelah selesai pastikan Kamu Update Saldo Kamu di ATM Bank atau HP yang memiliki fitur NFC",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Langkah-langkah untuk melakukan top up pada kartu uang elektronik menggunakan aplikasi LinkAja."
+  },
+  {
+    "question":"cara tarik tunai saldo linkaja",
+    "answer":"Kamu dapat mengunjungi GraPARI terdekat, modern retail (Alfa Group dan Indomaret) dan Mitra LinkAja lainnya yang sudah menjadi channel tarik tunai LinkAja. Selain itu, kamu juga dapat melakukan kirim uang ke rekening bank Himbara dan rekening bank yang tergabung dalam ATM Bersama.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Cara menarik tunai saldo LinkAja melalui GraPARI, retail modern, dan transfer ke rekening bank yang tergabung dalam ATM Bersama."
+  },
+  {
+    "question":"cara isi saldo linkaja",
+    "answer":"Untuk mengisi saldo LinkAja, kamu dapat melakukannya melalui:\n\n1. Top up melalui Bank Himbara ( BTN, BNI, Mandiri, dan BRI)\n2. Transfer Bank di Jaringan ATM Bersama & Virtual Account BCA\n3. GraPARI terdekat, lihat yang terdekat\n4. Merchant & Mitra LinkAja",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Cara-cara yang dapat dilakukan untuk mengisi saldo LinkAja melalui berbagai metode seperti bank, ATM, dan merchant."
+  },
+  {
+    "question":"cara melihat riwayat transaksi linkaja",
+    "answer":"Pada halaman menu utama aplikasi LinkAja, klik ikon ke-2 pada bar navigasi.\n\nUntuk UMB, hubungi *800# lalu pilih menu informasi > pilih menu transaksi history lalu ikut langkah selanjutnya untuk memasukan 6 digit PIN LinkAja kamu untuk melihat lima transaksi terakhir.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Cara mengakses riwayat transaksi di aplikasi LinkAja melalui menu utama atau menggunakan UMB dengan memasukkan PIN untuk melihat lima transaksi terakhir."
+  },
+  {
+    "question":"batasan transaksi layanan linkaja",
+    "answer":"1. Maksimal nilai transaksi /bulan Rp 20.000.000 untuk basic dan full service\n2. Maksimal transfer ke sesama akun LinkAja/ hari Rp 10.000.000 untuk full service\n3. Maksimal transfer dan tarik tunai / transaksi / hari Rp 2.000.000 untuk full service\n4. Maksimal nilai transfer dan tarik tunai/ bulan Rp. 20.000.000 untuk full service\n5. Maksimal jumlah transfer dan tarik tunai / bulan 31 x",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Batasan transaksi layanan LinkAja mencakup nilai maksimal transaksi bulanan, transfer harian, serta batasan untuk tarik tunai dan jumlah transaksi dalam sebulan."
+  },
+  {
+    "question":"saldo maksimal di akun linkaja",
+    "answer":"saldo maksimal pada untuk pelanggan LinkAja dengan tipe basic service adalah sebesar Rp 2.000.000 dan Rp 10.000.000 untuk pelanggan dengan tipe full service.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Batas saldo maksimum untuk akun LinkAja adalah Rp 2.000.000 untuk pelanggan tipe basic service dan Rp 10.000.000 untuk pelanggan tipe full service."
+  },
+  {
+    "question":"definisi kirim uang atau transfer",
+    "answer":"Fitur kirim uang bebas biaya untuk pengiriman ke sesama pengguna LinkAja, untuk pengiriman ke rekening bank dengan jaringan ATM bersama dikenakan biaya Rp 6.500,-.Kirim uang adalah fitur dari LinkAja yang memungkinkan kamu mengirimkan saldo dari akun LinkAja kamu ke akun LinkAja lainnya maupun transfer saldo ke rekening bank.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Fitur kirim uang pada LinkAja memungkinkan pengguna untuk mengirim saldo antar pengguna LinkAja tanpa biaya, serta melakukan transfer ke rekening bank dengan biaya tertentu."
+  },
+  {
+    "question":"biaya yang ditetapkan untuk fitur kirim uang atau transfer",
+    "answer":"Fitur kirim uang bebas biaya untuk pengiriman ke sesama pengguna LinkAja, untuk pengiriman ke rekening bank dengan jaringan ATM bersama dikenakan biaya Rp 6.500,-.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Biaya yang dikenakan untuk fitur kirim uang di LinkAja, yaitu gratis untuk sesama pengguna dan Rp 6.500 untuk pengiriman ke rekening bank melalui jaringan ATM bersama."
+  },
+  {
+    "question":"cara kirim uang atau transfer melalui linkaja",
+    "answer":"Pastikan kamu merupakan pelanggan LinkAja full service terlebih dahulu. Fitur kirim uang bisa dilakukan melalui aplikasi LinkAja atau melalui *800*4#. Petunjuk lengkap kirim uang dapat dilihat di https://www.linkaja.id/cara-pake",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Cara mengirim uang atau melakukan transfer menggunakan aplikasi LinkAja, termasuk syarat menjadi pelanggan full service dan petunjuk lengkap yang tersedia di situs resmi."
+  },
+  {
+    "question":"syarat untuk menikmati layanan kirim uang atau transfer lewat linkaja",
+    "answer":"Seluruh pelanggan LinkAja yang sudah full service dapat menikmati layanan kirim uang.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Syarat bagi pelanggan LinkAja yang sudah berstatus full service untuk dapat menggunakan layanan kirim uang atau transfer."
+  },
+  {
+    "question":"bisa kirim uang atau transfer kemana saja melalui linkaja",
+    "answer":"Sebagai pengguna LinkAja, kamu bisa kirim uang ke:\n\n1. Semua pelanggan LinkAja\n2. Rekening Bank Himbara dan rekening yang tergabung dalam jaringan ATM bersama.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Pengguna LinkAja dapat mengirim uang ke sesama pengguna LinkAja dan rekening bank Himbara serta rekening yang terhubung dalam jaringan ATM bersama."
+  },
+  {
+    "question":"apa ada batas transfer untuk kirim uang",
+    "answer":"Maksimal dan minimal Kirim Uang ke sesama Akun LinkAja adalah sebagai berikut:\n1. Maksimal Pengiriman/bulan : Rp. 20.000.000/bulan\n2. Maksimal Pengiriman/hari Rp. 10.000.000/hari\n3. Maksimal Pengiriman/1xkirim: Rp 10.000.000 / 1x kirim\n4. Minimal Pengiriman ke Akun linkAja 1x kirim: Rp 100 / 1x Kirim\n\nMaksimal dan minimal Kirim Uang ke Rekening Bank:\n1. Maksimal Pengiriman/bulan : Rp. 20.000.000/bulan\n2. Maksimal jumlah pengiriman/bulan : 31x\n3. Maksimal Pengiriman/hari Rp. 2.000.000/hari\n4. Maksimal pengiriman/1x kirim: Rp 2.000.000 / 1x kirim",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Batas maksimal dan minimal untuk transfer uang melalui akun LinkAja dan rekening bank, termasuk jumlah pengiriman per hari dan per bulan."
+  },
+  {
+    "question":"Apakah saldo yang diterima dari kirim uang bisa dicairkan",
+    "answer":"Bisa, pelanggan dapat melakukan pengiriman saldo ke rekening bank yang kemudian bisa ditarik melalui ATM bank tersebut. Fitur kirim uang hanya bisa dinikmati oleh pelanggan yang sudah terdaftar sebagai LinkAja full service.",
+    "topik":"transaksi",
+    "level":"linkaja",
+    "description":"Pelanggan LinkAja full service dapat mencairkan saldo yang diterima dari pengiriman uang ke rekening bank dan menariknya melalui ATM."
+  },
+  {
+    "question":"daftar merchant yang bekerja sama dengan linkaja",
+    "answer":"Kamu dapat melihat daftar merchant yang sudah bekerja sama dengan LinkAja di https://www.linkaja.id/merchants",
+    "topik":"web",
+    "level":"merchant",
+    "description":"Daftar merchant yang bekerja sama dengan LinkAja dapat ditemukan di situs resmi mereka."
+  },
+  {
+    "question":"cara daftar menjadi merchant linkaja",
+    "answer":"Pendaftaran merchant dapat dilakukan dengan cara klik https://www.linkaja.id/faq",
+    "topik":"registrasi",
+    "level":"merchant",
+    "description":"Panduan untuk mendaftar sebagai merchant LinkAja melalui situs resmi mereka."
+  },
+  {
+    "question":"lama proses pendaftaran merchant linkaja",
+    "answer":"Setelah melakukan pendaftaran, merchant akan segera dihubungi oleh pihak LinkAja terkait proses selanjutnya",
+    "topik":"registrasi",
+    "level":"merchant",
+    "description":"Waktu yang dibutuhkan untuk proses pendaftaran merchant LinkAja dan langkah-langkah selanjutnya setelah pendaftaran."
+  },
+  {
+    "question":"cara melakukan transaksi di merchant linkaja",
+    "answer":"Transaksi dapat dilakukan melalui QR Code, Web Checkout, dan Token",
+    "topik":"transaksi",
+    "level":"merchant",
+    "description":"Metode yang dapat digunakan untuk melakukan transaksi di merchant LinkAja, termasuk melalui QR Code, Web Checkout, dan Token."
+  },
+  {
+    "question":"cara mengetahui status transaksi di merchant?",
+    "answer":"a. Untuk setiap transaksi sukses ataupun gagal, merchant akan mendapatkan notifikasi melalui email, atau\nb. Status dapat dilihat secara real time di web merchant",
+    "topik":"transaksi",
+    "level":"merchant",
+    "description":"Cara untuk mengetahui status transaksi di merchant melalui notifikasi email atau melihatnya secara real time di situs web merchant."
+  },
+  {
+    "question":"cara mendapatkan notifikasi transaksi",
+    "answer":"a. Notifikasi transaksi dikirimkan melalui alamat email yang diisi saat proses pendaftaran merchant. Pastikan mengisi dengan alamat email yang valid\nb. Apabila ada perubahan notifikasi, merchant mengirimkan permintaan notifikasi transaksi dengan melampirkan identitas merchant pada email support@linkaja.id",
+    "topik":"transaksi",
+    "level":"merchant",
+    "description":"Cara mendapatkan notifikasi transaksi untuk merchant melalui alamat email yang valid dan prosedur permintaan perubahan notifikasi."
+  },
+  {
+    "question":"berapa lama dana transaksi akan dikirimkan ke merchant",
+    "answer":"Proses pengiriman dana transaksi atau proses settlement akan dilakukan pada H+1 hari kerja dengan minimal saldo settlement Rp. 5000,-",
+    "topik":"settlement",
+    "level":"merchant",
+    "description":"Proses pengiriman dana transaksi ke merchant dilakukan dalam waktu satu hari kerja setelah transaksi, dengan saldo minimal Rp. 5000,- untuk settlement."
+  },
+  {
+    "question":"cara mengubah nomor rekening penampungan dana settlement",
+    "answer":"Merchant memberikan surat permintaan bermaterai dan ditandatangani oleh pemilik merchant serta melampirkan Merchant ID (MID) LinkAja dan identitas merchant, kemudian dikirimkan pada email support@linkaja.id",
+    "topik":"settlement",
+    "level":"merchant",
+    "description":"Prosedur yang harus diikuti merchant untuk mengubah nomor rekening penampungan dana settlement dengan mengirimkan surat permintaan yang telah ditandatangani dan melampirkan informasi terkait ke email LinkAja."
+  },
+  {
+    "question":"cara membuat operator web merchant",
+    "answer":"Pembuatan web merchant dapat dilakukan dengan menginformasikan nama merchant/shortcode/MID, account email, dan no. handphone PIC Merchant melalui support@linkaja.id dengan melampirkan identitas merchant",
+    "topik":"web",
+    "level":"merchant",
+    "description":"Prosedur untuk membuat akun web merchant di LinkAja dengan mengirimkan informasi terkait merchant melalui email ke support@linkaja.id."
+  },
+  {
+    "question":"cara mengubah data akun merchant",
+    "answer":"Perubahan data akun merchant dapat dilakukan dengan menginformasikan nama merchant/shortcode/MID, account email, dan no. handphone PIC Merchant atau informasi data yang ingin diubah melalui support@linkaja.id dengan melampirkan identitas merchant",
+    "topik":"web",
+    "level":"merchant",
+    "description":"Prosedur untuk mengubah data akun merchant di LinkAja dengan mengirimkan informasi yang diperlukan melalui email ke support@linkaja.id."
+  },
+  {
+    "question":"apa saja identitas merchant",
+    "answer":"a. Nama Bisnis\nb. Nama Contact Person (PIC Merchant)\nc. Jenis Bisnis (isi dengan jenis bisnis, misalnya makanan)\nd. Provinsi\ne. Kota/Kabupaten\nf. Email Aktif\ng. Nomor Handphone Aktif\nh. Deskripsi Bisnis (jelaskan dengan detail bisnis Anda)",
+    "description":"Identitas merchant mencakup informasi penting seperti nama bisnis, kontak person, jenis bisnis, lokasi, serta detail kontak dan deskripsi bisnis."
+  }
+]
