@@ -1,3 +1,4 @@
 __pycache__
 *.ipynb
 .env
+search_cache.json

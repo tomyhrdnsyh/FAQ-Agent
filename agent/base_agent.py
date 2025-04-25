@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 from abc import ABC, abstractmethod
 from openai import OpenAI
-from typing import Dict
+from typing import Dict, List
 import os
 
 class Document(BaseModel):
@@ -21,6 +21,11 @@ class BaseAgent(ABC):
     def run(self, query: str, **kwargs) -> str:
         raise NotImplementedError(
             "Subclasses of BaseAgent must implement the 'run' method with the appropriate logic."
+        )
+    
+    def context_builder(self, contexts: List[Dict], fields: List[str] = ['question', 'answer']) -> str:
+        return "\n".join(
+            [f"{i+1}. "+'\n'.join([f"{k.title()}: {v}" for k, v in doc.items() if k in fields]) for i, doc in enumerate(contexts)]
         )
 
     def __repr__(self) -> str:

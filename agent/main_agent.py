@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 load_dotenv('.env')
 
 from agent.base_agent import BaseAgent, Document
-from agent.final_instruction_agent import FinalInstructionAgent
+from agent.final_instruction_agent import FinalInstruction
 from retriever.local_retriever import LocalRetriever
 from retriever.embed_documents import EmbeddingGenerator
 from retriever.web_retriever import GoogleSearcher
@@ -22,7 +22,7 @@ class CSLinkAja(BaseAgent):
         self.retriever = LocalRetriever("data/faq_embeddings.pkl")
         self.gsearch = GoogleSearcher()
         self.embedder = EmbeddingGenerator()
-        self.final_instruction = FinalInstructionAgent(model='gpt-4o')
+        self.final_instruction = FinalInstruction(model='gpt-4o')
 
     def local_faq_database(self, query: str) -> List[Dict]:
         query_vec = self.retriever.embed_query(self.embedder.embed_text, query)
@@ -44,8 +44,8 @@ class CSLinkAja(BaseAgent):
 
             final_answer = self.final_instruction.run(query, faq_data, gresponse, chat_history=chat_history)
             log_tools = [
-                {'name': 'local_faq_database', 'input': query, 'output': faq_data},
-                {'name': 'gsearch', 'input': query, 'output': gresponse},
+                {'name': 'local_faq_database', 'input': query, 'output': faq_data, 'source': 'internal_faq_linkaja'},
+                {'name': 'gsearch', 'input': query, 'output': gresponse, 'source': 'google'},
             ]
             metadata = self.metadata_builder(query=query, tools=log_tools)
         else:
@@ -53,7 +53,7 @@ class CSLinkAja(BaseAgent):
             final_answer = self.final_instruction.run(query, faq_data, chat_history=chat_history)
 
             log_tools = [
-                {'name': 'local_faq_database', 'input': query, 'output': faq_data}
+                {'name': 'local_faq_database', 'input': query, 'output': faq_data, 'source': 'internal_faq_linkaja'}
             ]
             metadata = self.metadata_builder(query=query, tools=log_tools)
 
