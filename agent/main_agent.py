@@ -1,6 +1,7 @@
 from typing import List, Dict, Any
 from dotenv import load_dotenv
-load_dotenv('.env')
+from loguru import logger
+logger.info(f"Load env status: {load_dotenv('.env')}")
 
 from agent.base_agent import BaseAgent, Document
 from agent.final_instruction_agent import FinalInstruction
