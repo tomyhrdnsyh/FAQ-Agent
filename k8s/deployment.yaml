@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: linkaja-qa-deployment
+  labels:
+    app: linkaja-qa
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: linkaja-qa
+  template:
+    metadata:
+      labels:
+        app: linkaja-qa
+    spec:
+      containers:
+        - name: linkaja-qa
+          image: linkaja-qa:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8501
+          envFrom:
+            - secretRef:
+                name: linkaja-qa-secret
