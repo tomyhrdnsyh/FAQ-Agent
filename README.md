@@ -149,3 +149,7 @@ kubectl apply -f k8s/
 - **No FAISS**: Manual vector search using NumPy for low memory overhead.
 - **No LangChain**: Fully custom and modular native implementation.
 - **Code Quality**: Modular, documented, and clean codebase.
+
+## 📷 Screenshots & Video Recording
+
+All screenshots and demo video recordings are available in the `assets/` folder for reference.
