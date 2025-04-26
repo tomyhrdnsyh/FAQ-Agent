@@ -29,6 +29,10 @@ This project is an internal chatbot system using LLMs (Large Language Models) an
 
 ---
 
+## 📈 System Flowchart
+![System Flowchart](assets/images/Flowchart.jpg)
+
+
 ## 🗂️ Project Structure
 
 ```bash
