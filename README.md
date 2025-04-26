@@ -93,7 +93,7 @@ A `Dockerfile` is provided for containerization. You can build and run the conta
 
 ```bash
 docker build -t linkaja-qa .
-docker run --env-file .env -p 8501:8501 linkaja-qa
+docker run --name c-linkaja-qa --env-file .env -p 8501:8501 -d linkaja-qa
 ```
 
 ### ☸️ Kubernetes Deployment
