@@ -35,7 +35,7 @@ class FinalInstruction(BaseAgent):
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[{"role": "system", "content": SYS_FINAL_INSTRUCTION}, *chat_history, {"role": "user", "content": prompt}],
-            temperature=0.3,
+            temperature=0,
         )
 
         return response.choices[0].message.content.strip()
